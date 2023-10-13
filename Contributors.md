@@ -4,8 +4,10 @@
 - [Olumide Micheal](https://github.com/codewithmide)
 - [João Victor Cosme Melo] (https://github.com/VictorCosme)
 - [Sohaib Boukraa](https://github.com/sohaibproject)
+- [Jeisson Rodriguez](https://github.com/JeissonR115)
 - [AmmanChhetri] (https://github.com/AmmanChhetri)
 - [Adick Rincones] (https://github.com/AdickRincones133)
+- [Lakshay Joshi](https://github.com/lakshay451)
 - [Alexandra Asanache](https://github.com/digitallyalex)
 - [Utkarsh Kumar](https://github.com/utkarsh1042005)
 - [Saksham Shekher](https://github.com/OshekharO)
@@ -26,9 +28,11 @@
 - [Michael Raheem](https://github.com/Raheemstan)
 - [Vivek Rajpoot] (https://github.com/VivekRajpoot01)
 - [Aarón Moya](https://github.com/Aaron-Moya)
+- [Taiwo Sulaimon](https://github.com/sulaimon23)
 - [Sahil Chandna](https://github.com/sahilchandna60)
 Jyothishwari GP
 - [Ricktho Sarkar](https://github.com/Ricktho1)
+-[sunny sharma](https://github.com/sunny-11002)
 - [Luis Salamanca](https://github.com/Luissalamanca23)
 - [Parikshit Adhikari](https://github.com/parikshitadhikari)
 - [Zippy](https://github.com/123ZOKzok)
@@ -154,6 +158,7 @@ Jyothishwari GP
 - [Vishal Kumar](https://github.com/kvishalrj)
 - [Donald Doricent] (https://github.com/Don-Doricent)
 - [Andy James](https://github.com/ajpert)
+- [Arthur Huyghe] (https://github.com/ArthurHuyghe)
 - [Chandan Mali](https://github.com/Chandanmali)
 -[Vaibhav Nimkar](https://github.com/vaibhavpnimkar)
 - [Stephen Nwankwo](https://github.com/stenwire)
@@ -232,6 +237,7 @@ Jyothishwari GP
 - [Prakhar Shankar](https://github.com/Prakhar-Shankar)
 - [Mark Thomas](https://github.com/Emtee100)
 - [Habibur Rahman]()
+- [Farutnen](https://github.com/farutnen)
 - [Aditya Garg](https://github.com/aditya7302)
 - [Shrey](https://github.com/Zhreyu)
 - [Cheezad] (https://github.com/cheezad)
@@ -456,6 +462,7 @@ aj
 - [Riley Rabelos](https://github.com/rabelosr20)
 - [James Lucky](https://github.com/is-lucky)
 - [Matthew Lewis](https://github.com/jamespeachh)
+- [Matt Clark](https://github.com/mattclark801)
 - [faisal Rasheed](https://github.com/faisal-rasheed-lone)
 - [Sherwan Qadir](https://github.com/OogwayKP)
 - [Fatima Aamir] (https://github.com/fatima-aamir)
@@ -1261,6 +1268,7 @@ Sino Felicity Zwane
 - [Carlos Guerrero] (https://github.com/carlosguealv)
 - [Steve Conteh] (https://github.com/steveconteh)
 - [Shubham Jain](https://github.com/shubh)
+- [Carlos Mancilla](https://github.com/charlsmn)
 - [Cindy Aspiras](https://github.com/cmfasp)
 - [aikoo7] (https://github.com/aikooo7)
 - psuurd-pauletpajo
@@ -3047,6 +3055,7 @@ Akash Abraham
 - [Rúben Alves](https://github.com/Raia17)
 - [oDqnger](https://github.com/oDqnger)
 - Jack
+- michel
 - [DingDing](https://github.com/15078010000)
 - [lillarspillars](https://github.com/lillarspillars)
 - [gunay-h](https://github.com/gunay-h)
@@ -3731,7 +3740,9 @@ pig
 - [Eya Smati](https://github.com/EYAI)
 - [Zaid Khan](https://github.com/ZaidlKhan)
 - [rodrigoDev0n](https://github.com/rodrigoDev0n)
+- [bozhidar dinev](https://github.com/BDinevv)
 
 
 
 
+- [Su Zheng Hui](https://github.com/zhenghui-su)
